@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.navbar .nav-link{
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+}
+.navbar-toggler{
+    outline: none !important;
+}
+.bg-black{
+    background: #000;
+}
+.col{
+    text-transform: uppercase;
+}
+.footer{
+    color: #fff;
+}
